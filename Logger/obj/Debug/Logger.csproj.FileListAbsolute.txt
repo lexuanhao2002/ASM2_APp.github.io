@@ -1,0 +1,6 @@
+C:\Users\haohn\source\repos\WebASM\Logger\bin\Debug\Logger.dll
+C:\Users\haohn\source\repos\WebASM\Logger\bin\Debug\Logger.pdb
+C:\Users\haohn\source\repos\WebASM\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\haohn\source\repos\WebASM\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\haohn\source\repos\WebASM\Logger\obj\Debug\Logger.dll
+C:\Users\haohn\source\repos\WebASM\Logger\obj\Debug\Logger.pdb
