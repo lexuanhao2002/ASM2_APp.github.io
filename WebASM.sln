@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebASM", "WebASM\WebASM.csproj", "{AAD9D7E6-BF8F-4295-A8AB-C4E5003EF2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{9A0AB8F4-4144-4E9F-9559-7D790F6B28A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD9D7E6-BF8F-4295-A8AB-C4E5003EF2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD9D7E6-BF8F-4295-A8AB-C4E5003EF2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD9D7E6-BF8F-4295-A8AB-C4E5003EF2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD9D7E6-BF8F-4295-A8AB-C4E5003EF2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0AB8F4-4144-4E9F-9559-7D790F6B28A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0AB8F4-4144-4E9F-9559-7D790F6B28A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0AB8F4-4144-4E9F-9559-7D790F6B28A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0AB8F4-4144-4E9F-9559-7D790F6B28A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002B1464-A8AA-4216-94EF-D4B7CB509F7E}
+	EndGlobalSection
+EndGlobal
